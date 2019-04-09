@@ -3,6 +3,10 @@ import cv2
 
 from skimage.feature import local_binary_pattern
 
+#Name: Zander Miller
+#CSC-391
+#Project 3
+
 #Settings
 radius = 3
 n_points = 8 * radius
